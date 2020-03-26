@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backcolor"
+    tools:context=".MainActivity"
+    tools:ignore="Deprecated">
+
+
+    <Button
+        android:id="@+id/loseButton"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="87dp"
+        android:layout_y="177dp"
+        android:text="Lose Weight"
+        android:background="@color/white"
+        android:textColor="@color/backcolor"/>
+
+    <Button
+        android:id="@+id/gainButoon"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="88dp"
+        android:layout_y="377dp"
+        android:text="Gain weight"
+        android:background="@color/white"
+        android:textColor="@color/backcolor"/>
+
+    <Button
+        android:id="@+id/maintainButoon"
+        android:layout_width="189dp"
+        android:layout_height="69dp"
+        android:layout_x="87dp"
+        android:layout_y="278dp"
+        android:background="@color/white"
+        android:text="Maintain Weight"
+        android:textColor="@color/backcolor"/>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="268dp"
+        android:layout_height="37dp"
+        android:layout_x="65dp"
+        android:layout_y="131dp"
+        android:paddingLeft="50dp"
+        android:paddingTop="10dp"
+        android:text="What's your goal?"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp" />
+</AbsoluteLayout>

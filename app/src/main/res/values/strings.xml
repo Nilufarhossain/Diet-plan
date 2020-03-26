@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Diet Plan</string>
+    <string name="loseText">\nHere are 10 more tips to lose weight faster:\n\n
+        1. Eat a high protein breakfast: Eating a high protein breakfast could reduce cravings and calorie intake throughout the day.\n
+        2. Avoid sugary drinks and fruit juice: These are among the most fattening things you can put into your body.\n
+3. Drink water before meals: One study showed that drinking water a half hour before meals increased weight loss by 44% over 3 months.\n
+4. Choose weight-loss-friendly foods: Some foods are better for weight loss than others. Here is a list of 20 healthy weight-loss-friendly foods.\n
+5. Eat soluble fiber: Studies show that soluble fibers may promote weight loss. Fiber supplements like glucomannan can also help.\n
+6. Drink coffee or tea: Caffeine boosts your metabolism by 3–11% (23Trusted Source, 24Trusted Source, 25Trusted Source).\n
+7. Base your diet on whole foods: They are healthier, more filling, and much less likely to cause overeating than processed foods.\n
+8. Eat slowly: Eating quickly can lead to weight gain over time, while eating slowly makes you feel more full and boosts weight-reducing hormones.\n
+9. Weigh yourself every day: Studies show that people who weigh themselves every day are much more likely to lose weight and keep it off for a long time.\n
+10. Get good quality sleep: Sleep is important formany reasons, and poor sleep is one of the biggest risk factors for weight gain.\n
+    </string>
+    <string name="maintainText">
+        Track meals during the day to get a better insight into what you eat and how it impacts your everyday life. Here is a recommended calorie consumption chart for you:\n
+    </string>
+</resources>
